@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arsal-05
 - 👀 I’m interested in computer science and programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me through mail.
 
